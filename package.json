@@ -1,0 +1,12 @@
+{
+  "name": "google-sheet-contact-automation",
+  "version": "1.0.0",
+  "main": "src/contact_merger.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Contact merging automation tool"
+}
